@@ -15,6 +15,7 @@ public class MainClass {
 		System.out.println("goood to all!");
 		System.out.println("greeting!");
 		System.out.println("good afternoon!");
+		System.out.println("workspace 2!");
 	}
 
 }
